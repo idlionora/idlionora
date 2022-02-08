@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nurul Azizah (@idlionora)
-- 👀 I’m interested in front-end development
+- 👀 I’m interested in front-end development and graphic design
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 💞️ I’m not looking to collaborate right now, but maybe at the end of 2022?
 - 📫 How to reach me, please send mail to idlionora@gmail.com;
