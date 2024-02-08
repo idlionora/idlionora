@@ -1,6 +1,6 @@
 - 👋 Hi, I am Nurul Azizah (@idlionora)
 - 👀 I’m interested in front-end development and now trying to widen horizon on being a fullstack developer 
-- 🌱 I’m currently learning PHP and MySQL
+- 🌱 I’m currently learning Nextjs and SQL
 - 💞️ I would be excited to be able to collaborate and help you on your project!
 - 📫 How to reach me, please send mail to idlionora@gmail.com;
 
